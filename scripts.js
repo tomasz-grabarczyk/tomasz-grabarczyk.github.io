@@ -1,3 +1,3 @@
 function buttonClickFunc() {
-	alert("Alerting you");
+	alert("I'm hosted with GitHub Pages!");
 }
